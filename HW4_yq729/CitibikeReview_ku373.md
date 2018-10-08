@@ -17,3 +17,4 @@ You can think of using Kruskal-Wallis test.
 - One dependent variable 
 - Independence of observations
 
+The Kruskal-Wallis would test whether there is a difference among groups.
