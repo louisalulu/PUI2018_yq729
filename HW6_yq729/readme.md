@@ -10,4 +10,4 @@ correlation	| 1, paleoecological conditions | continuous | 1, dental microwear s
 logistic regression	| 1, group sizes | continuous | 1, probabilities of experiencing a critical level of scalar stress| continuous | 0| continuous (could also be categorical) | how do probabilities of experiencing a critical level of scalar stress change with different group sizes| lower probabilities of experiencing a critical level of scalar stress are associated with smaller group sizes and higher probabilities with larger group sizes | 0.05 | Modeling Group Size and Scalar Stress by Logistic Regression from an Archaeological Perspective(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091510) |
   |||||||||
 
-![MANOVA](PUI2018_yq729/HW6_yq729/Screen Shot 2018-10-17 at 3.08.02 PM.png)
+![MANOVA](https://github.com/sueqian6/PUI2018_yq729/blob/master/HW6_yq729/Screen%20Shot%202018-10-17%20at%203.08.02%20PM.png)
