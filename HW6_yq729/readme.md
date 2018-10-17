@@ -12,3 +12,4 @@ logistic regression	| 1, group sizes | continuous | 1, probabilities of experien
 
 ![MANOVA](https://github.com/sueqian6/PUI2018_yq729/blob/master/HW6_yq729/Screen%20Shot%202018-10-17%20at%203.08.02%20PM.png)
 ![correlation](https://github.com/sueqian6/PUI2018_yq729/blob/master/HW6_yq729/Screen%20Shot%202018-10-17%20at%204.10.08%20PM.png)
+![logistic regression](https://github.com/sueqian6/PUI2018_yq729/blob/master/HW6_yq729/Screen%20Shot%202018-10-17%20at%204.09.00%20PM.png)
